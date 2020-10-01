@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CoffeeVending" />
+        <module name="WebCalculator" />
+        <module name="MyFirstRestAPI" />
+        <module name="CoffeeHibernate" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CoffeeHibernate" target="1.7" />
+      <module name="CoffeeVending" target="8" />
+      <module name="CoffeeVendingHibernate" target="1.7" />
+      <module name="MyFirstRestAPI" target="1.7" />
+      <module name="WebCalculator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

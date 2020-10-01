@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyFirstRestAPI:war">
+    <output-path>$PROJECT_DIR$/../MyFirstRestAPI/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MyFirstRestAPI</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MyFirstRestAPI.war">
+      <element id="artifact" artifact-name="MyFirstRestAPI:war exploded" />
+    </root>
+  </artifact>
+</component>

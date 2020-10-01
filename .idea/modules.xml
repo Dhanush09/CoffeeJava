@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CoffeeHibernate/CoffeeHibernate.iml" filepath="$PROJECT_DIR$/../CoffeeHibernate/CoffeeHibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoffeeVending.iml" filepath="$PROJECT_DIR$/CoffeeVending.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FirstWSDL/FirstWSDL.iml" filepath="$PROJECT_DIR$/../FirstWSDL/FirstWSDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyFirstRestAPI/MyFirstRestAPI.iml" filepath="$PROJECT_DIR$/../MyFirstRestAPI/MyFirstRestAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebCalculator/WebCalculator.iml" filepath="$PROJECT_DIR$/../WebCalculator/WebCalculator.iml" />
+    </modules>
+  </component>
+</project>
